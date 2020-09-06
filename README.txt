@@ -1,1 +1,1 @@
-Aici v-or fi toate temele pentru acasa
+Aici va fi stocata toata informatia despre lectiile JAVA
